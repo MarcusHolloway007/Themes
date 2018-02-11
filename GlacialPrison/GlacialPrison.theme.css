@@ -23,9 +23,9 @@ IMPORTANT: Links must be HTTPS!
 	--channel-color: #ccffff;
 	
     /* IMAGES */
-	--background-image: url(https://puu.sh/w1xZT/27dd03a07c.png);
+	--background-image: url(https://ubistatic19-a.akamaihd.net/resource/en-gb/game/assassins-creed/ac-origins/ac_news_announce-keyartt-thumb-ncsa_292590.jpg);
 	--dm-image: url(https://puu.sh/w1y3a/7e878418b3.gif);	
-	--profile-image: url(https://puu.sh/sAO0x/fdecb6c24b.png);
+	--profile-image: url(https://ubistatic19-a.akamaihd.net/resource/en-gb/game/assassins-creed/ac-origins/ac_post_launch_header_303425.jpg);
     --nsfw-image: url(https://puu.sh/zbsiF/9b67596e0e.png);
 
     /* MISC */
@@ -33,7 +33,7 @@ IMPORTANT: Links must be HTTPS!
 	--background-brightness: 100%;
 	--emoji-size: 50px;
 }
-/* ORIGINAL: --main-color: #2780e6;--hover-color: #1f66b8;--channel-color: #ccffff;--background-image: url(https://puu.sh/w1xZT/27dd03a07c.png);--dm-image: url(https://puu.sh/w1y3a/7e878418b3.gif);--profile-image: url(https://puu.sh/sAO0x/fdecb6c24b.png);--nsfw-image: url(https://puu.sh/zbrR0/f770ed351a.jpeg);--background-blur: 0px;--background-brightness: 100%;--emoji-size: 50px; (in case you want to change it back) */
+/* ORIGINAL: --main-color: #2780e6;--hover-color: #1f66b8;--channel-color: #ccffff;--background-image: url(https://puu.sh/w1xZT/27dd03a07c.png);--dm-image: url(https://puu.sh/w1y3a/7e878418b3.gif);--profile-image: url(https://puu.sh/sAO0x/fdecb6c24b.png);--nsfw-image: url(https://ubistatic19-a.akamaihd.net/resource/en-gb/game/assassins-creed/ac-origins/ac_post_launch_header_303425.jpg);--background-blur: 0px;--background-brightness: 100%;--emoji-size: 50px; (in case you want to change it back) */
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
 */
